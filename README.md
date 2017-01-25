@@ -1,6 +1,9 @@
 # Mock Imagine-Dragons-Knockout-Poster
 
-An Imagine Dragons Poster displaying Large Knockout text with an Image and gif behind them.
+A Fully Responsive Imagine Dragons Poster displaying Large Knockout text with an Image and gif behind them.
+
+Here is the poster:
+https://davidmonahan92.github.io/Imagine-Dragons-Knockout-Poster/
 
 Links for the Picture and GIF are below:
 
