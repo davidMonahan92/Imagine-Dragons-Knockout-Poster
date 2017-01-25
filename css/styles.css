@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #000;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+}
+
+.knockout-text-one {
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    background: url('../images/ImagineDragonsPromo.png') no-repeat;
+    background-size: cover;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 28vw;
+    text-align: center;
+}
+
+.knockout-text-two {
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    background: url('../images/ImagineDragonsCrowd.gif') no-repeat;
+    background-size: cover;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 28vw;
+    text-align: center;
+}
